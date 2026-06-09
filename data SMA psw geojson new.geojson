@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "data SMA psw geojson new",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NO": 1, "Pendidikan Satuan SMA": "SMA ISLAM TERPADU AL HIDAYAH", "Lintang": -5.3503, "Bujur": 104.908, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 104.908, -5.3503 ] } },
+{ "type": "Feature", "properties": { "NO": 2, "Pendidikan Satuan SMA": "SMA YADIKA PAGELARAN", "Lintang": -5.3497415, "Bujur": 104.892, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 104.892, -5.3497415 ] } },
+{ "type": "Feature", "properties": { "NO": 3, "Pendidikan Satuan SMA": "SMAN 1 PAGELARAN", "Lintang": -5.3714, "Bujur": 104.931, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 104.931, -5.3714 ] } },
+{ "type": "Feature", "properties": { "NO": 4, "Pendidikan Satuan SMA": "SMAS 17 PAGELARAN", "Lintang": -5.3733, "Bujur": 104.891, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 104.891, -5.3733 ] } },
+{ "type": "Feature", "properties": { "NO": 5, "Pendidikan Satuan SMA": "SMAS PGRI PAGELARAN", "Lintang": -5.3615, "Bujur": 104.915, "Kecamatan": "Pagelaran" }, "geometry": { "type": "Point", "coordinates": [ 104.915, -5.3615 ] } },
+{ "type": "Feature", "properties": { "NO": 6, "Pendidikan Satuan SMA": "SMAN 1 SUKOHARJO", "Lintang": -5.2694, "Bujur": 104.993, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 104.993, -5.2694 ] } },
+{ "type": "Feature", "properties": { "NO": 7, "Pendidikan Satuan SMA": "SMAS ISLAM TERPADU AL MUNIR", "Lintang": -5.3028, "Bujur": 104.977, "Kecamatan": "Sukoharjo" }, "geometry": { "type": "Point", "coordinates": [ 104.977, -5.3028 ] } },
+{ "type": "Feature", "properties": { "NO": 8, "Pendidikan Satuan SMA": "SMAN 1 ADILUWIH", "Lintang": -5.225, "Bujur": 105.037, "Kecamatan": "Adiluwih" }, "geometry": { "type": "Point", "coordinates": [ 105.037, -5.225 ] } },
+{ "type": "Feature", "properties": { "NO": 9, "Pendidikan Satuan SMA": "SMAN 1 BANYUMAS", "Lintang": -5.299, "Bujur": 104.921, "Kecamatan": "Banyumas" }, "geometry": { "type": "Point", "coordinates": [ 104.921, -5.299 ] } },
+{ "type": "Feature", "properties": { "NO": 10, "Pendidikan Satuan SMA": "SMA IT INSAN MULIA BOARDING SCHOOL PRINGSEWU", "Lintang": -5.3704, "Bujur": 104.972, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 104.972, -5.3704 ] } },
+{ "type": "Feature", "properties": { "NO": 11, "Pendidikan Satuan SMA": "SMA PLUS AL-HAMIDY PRINGSEWU", "Lintang": -5.3422, "Bujur": 104.984, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 104.984, -5.3422 ] } },
+{ "type": "Feature", "properties": { "NO": 12, "Pendidikan Satuan SMA": "SMAN 1 PRINGSEWU", "Lintang": -5.3510867, "Bujur": 104.968, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 104.968, -5.3510867 ] } },
+{ "type": "Feature", "properties": { "NO": 13, "Pendidikan Satuan SMA": "SMAN 2 PRINGSEWU", "Lintang": -5.33222, "Bujur": 104.981, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 104.981, -5.33222 ] } },
+{ "type": "Feature", "properties": { "NO": 14, "Pendidikan Satuan SMA": "SMAS MUHAMMADIYAH PRINGSEWU", "Lintang": -5.3416, "Bujur": 104.974, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 104.974, -5.3416 ] } },
+{ "type": "Feature", "properties": { "NO": 15, "Pendidikan Satuan SMA": "SMAS XAVERIUS PRINGSEWU", "Lintang": -5.3594167, "Bujur": 104.978, "Kecamatan": "Pringsewu" }, "geometry": { "type": "Point", "coordinates": [ 104.978, -5.3594167 ] } },
+{ "type": "Feature", "properties": { "NO": 16, "Pendidikan Satuan SMA": "SMAN 1 AMBARAWA", "Lintang": -5.4081, "Bujur": 104.963, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 104.963, -5.4081 ] } },
+{ "type": "Feature", "properties": { "NO": 17, "Pendidikan Satuan SMA": "SMAS YASMIDA AMBARAWA", "Lintang": -5.4093, "Bujur": 104.959, "Kecamatan": "Ambarawa" }, "geometry": { "type": "Point", "coordinates": [ 104.959, -5.4093 ] } },
+{ "type": "Feature", "properties": { "NO": 18, "Pendidikan Satuan SMA": "SMA ISLAM AL-ANSHOR PUTRI", "Lintang": -5.3900883, "Bujur": 105.013, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 105.013, -5.3900883 ] } },
+{ "type": "Feature", "properties": { "NO": 19, "Pendidikan Satuan SMA": "SMAN 1 GADINGREJO", "Lintang": -5.3592, "Bujur": 105.06, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 105.06, -5.3592 ] } },
+{ "type": "Feature", "properties": { "NO": 20, "Pendidikan Satuan SMA": "SMAN 2 GADINGREJO", "Lintang": -5.3858, "Bujur": 105.039, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 105.039, -5.3858 ] } },
+{ "type": "Feature", "properties": { "NO": 21, "Pendidikan Satuan SMA": "SMAS BINA MULYA", "Lintang": -5.4037, "Bujur": 104.988, "Kecamatan": null }, "geometry": { "type": "Point", "coordinates": [ 104.988, -5.4037 ] } },
+{ "type": "Feature", "properties": { "NO": 22, "Pendidikan Satuan SMA": "SMAS MUHAMMADIYAH GADINGREJO", "Lintang": -5.367, "Bujur": 105.06, "Kecamatan": "Gadingrejo" }, "geometry": { "type": "Point", "coordinates": [ 105.06, -5.367 ] } },
+{ "type": "Feature", "properties": { "NO": 23, "Pendidikan Satuan SMA": "SMAN 1 PARDASUKA", "Lintang": -5.4643, "Bujur": 104.932, "Kecamatan": "Pardasuka" }, "geometry": { "type": "Point", "coordinates": [ 104.932, -5.4643 ] } }
+]
+}
